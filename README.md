@@ -40,16 +40,6 @@
 
 ###
 
-<h1 data-importer="text" align="left">👨‍💻 Current Projects</h1>
-
-###
-
-<p data-importer="text" align="left">
-• Studying operating systems, Assembly, and computer architecture fundamentals to begin developing a basic kernel.
-</p>
-
-###
-
 <h1 data-importer="text" align="left">✉️ Contact</h1>
 
 ###
