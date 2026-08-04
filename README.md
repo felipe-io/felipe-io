@@ -29,6 +29,16 @@
 
 ###
 
+<h1 data-importer="text" align="left">📚 Learning</h1>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://jsdelivr.net" height="26" alt="python logo" />
+</div>
+
+###
+
 <h1 data-importer="text" align="left">🌎 Spoken Languages</h1>
 
 ###
