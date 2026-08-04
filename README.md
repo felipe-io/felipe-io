@@ -29,12 +29,12 @@
 
 ###
 
-<h1 data-importer="text" align="left">📚 Learning</h1>
+<h1 data-importer="text" align="left">📚 Currently Learning</h1>
 
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://jsdelivr.net" height="26" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" alt="python logo" />
 </div>
 
 ###
