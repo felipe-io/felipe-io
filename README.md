@@ -11,7 +11,7 @@
 ###
 
 <p data-importer="text" align="left">
-• 🎓 Computer Engineering student | CEFET-MG.<br><br>
+• 🎓 Computer Engineering student | Universidade Federal de Ciência e Inovação-MG.<br><br>
 • 🐧 Passionate about programming logic and the Linux ecosystem.<br><br>
 • 💻 Focused on backend development and low-level programming fundamentals.<br><br>
 • 🎧 Music producer in my free time.
